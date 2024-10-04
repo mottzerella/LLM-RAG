@@ -1,0 +1,16 @@
+openai
+langchain
+langchain_openai
+chromadb
+docx2txt
+pypdf
+streamlit
+tiktoken
+pinecone
+llama-index-core 
+llama-parse 
+llama-index-readers-file 
+python-dotenv
+firecrawl-py
+tavily-python
+langchainhub
